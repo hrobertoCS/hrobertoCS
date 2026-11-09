@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Projects</h1>
+
+<h2 align="center"><a href="https://github.com/hrobertoCS/macro-rpg-prototypes">MacroRPG</a></h2>
+
+<p align="center">Nutrition tracking app with RPG progression. Log meals and track daily macros against set targets to earn XP based on how closely you meet your targets.</p>
+
+<p align="center">Built using TypeScript, React Native, Expo, and SQLite.</p>
+
+<h2 align="center"><a href="https://github.com/hrobertoCS/macro-rpg-prototypes#demo">Demo</a></h2>
 
 <!--
 **hrobertoCS/hrobertoCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
