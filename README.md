@@ -13,6 +13,7 @@
 <p align="center">Full-stack travel package application with an administrator interface for managing trips, MongoDB data storage, and JWT authentication.</p>
 <p align="center">Built using MongoDB, Express.js, Angular, and Node.js.</p>
 
+<h2></h2>
 <h2 align="center"><a href="https://github.com/hrobertoCS/InventoryTracker">InventoryTracker</a></h2>
 
 <p align="center">Android inventory management app with account registration and login, item and quantity management, a grid inventory view, and optional low stock alerts through SMS.</p>
