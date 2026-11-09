@@ -8,6 +8,10 @@
 
 <h2 align="center"><a href="https://github.com/hrobertoCS/macro-rpg-prototypes#demo">Demo</a></h2>
 
+<h2 align="center"><a href="https://github.com/hrobertoCS/cs465-fullstack">Travlr Getaways</a></h2>
+
+<p align="center">Full-stack travel package application with an administrator interface for managing trips, MongoDB data storage, and JWT authentication.</p>
+<p align="center">Built using MongoDB, Express.js, Angular, and Node.js.</p>
 <!--
 **hrobertoCS/hrobertoCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
